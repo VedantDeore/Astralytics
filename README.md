@@ -3,6 +3,17 @@
 
 Astralytics is a cutting-edge social media analytics platform that revolutionizes how businesses and content creators understand and optimize their online presence. Powered by **AI-driven insights**, **LangFlow**, and **Astra DB**, it empowers users to make data-driven decisions, boost engagement, and stay ahead of trends.
 
+
+---
+
+## 🌐 **Links**  
+
+- **YouTube Demo**: [Watch the Demo](https://youtu.be/th6k0cJW-vE?si=w0k4NPGLVxl2g5N_)
+  ### Video Preview
+[![Watch the Demo](https://img.youtube.com/vi/th6k0cJW-vE/0.jpg)](https://youtu.be/th6k0cJW-vE?si=w0k4NPGLVxl2g5N_)
+- **Deployment**: [Astralytics Live](https://astralytics.vercel.app/)
+- **Find Coder Submission** : [Assignment Submission](https://www.findcoder.io/projects/astralytics/678032d28015401a98a4de88)
+
 ---
 
 ## 🚀 **Features**  
@@ -101,15 +112,6 @@ Astralytics is a cutting-edge social media analytics platform that revolutionize
 
 ---
 
-## 🌐 **Links**  
-
-- **YouTube Demo**: [Watch the Demo](https://youtu.be/th6k0cJW-vE?si=w0k4NPGLVxl2g5N_)
-  ### Video Preview
-[![Watch the Demo](https://img.youtube.com/vi/th6k0cJW-vE/0.jpg)](https://youtu.be/th6k0cJW-vE?si=w0k4NPGLVxl2g5N_)
-- **Deployment**: [Astralytics Live](https://astralytics.vercel.app/)
-- **Find Coder Submission** : [Assignment Submission](https://www.findcoder.io/projects/astralytics/678032d28015401a98a4de88)
-
----
 
 ## 👥 **Collaborators**  
 - Add collaborator usernames here  
