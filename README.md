@@ -114,18 +114,18 @@ Astralytics is a cutting-edge social media analytics platform that revolutionize
 
 
 ## 👥 **Collaborators**  
-- Add collaborator usernames here  
+- @https://github.com/vedantdeore
+- https://github.com/samyakraka
+- https://github.com/riteshborse
+- https://github.com/satyajitshinde112
 
 ---
 
 ## 📸 **Media**  
 
-- **Screenshots**: [Add project screenshots here]  
-- **Thumbnail**: [Upload project thumbnail here]  
+- **Screenshots**: ![Screenshot](screenshots/Screenshot%202025-01-10%20100602.png)
+- ![Screenshot](screenshots/Screenshot%202025-01-10%20100710.png)
+- ![Screenshot](screenshots/Screenshot%202025-01-10%20100937.png)  
 
----
-
-## 📜 **License**  
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.  
 
 ---
